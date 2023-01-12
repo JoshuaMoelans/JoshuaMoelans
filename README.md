@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JoshuaMoelans ! 
 - 👀 I’m interested in everything digital and creative! From programming to (digital) art, from game design to making music 🎸!
-- 🌱 I’m currently studying computer science at the University of Antwerp.
+- 🌱 I’m currently doing my Master's in Software Engineering at the University of Antwerp.
 - 💞️ Currently not looking for projects; I'm already quite busy :)
-- 📫 Reach me via [email](mailto:joshua.moelans@student.uantwerpen.be)!
