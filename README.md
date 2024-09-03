@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JoshuaMoelans ! 
 - 👀 I’m interested in everything digital and creative! From programming to (digital) art, from game design to making music 🎸!
-- 🌱 I’m currently doing my Master's in Software Engineering at the University of Antwerp.
-- 💞️ Currently not looking for projects; I'm already quite busy :)
+- 💻 I’m currently working as a Software Engineer at Sentry.io
